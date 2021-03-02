@@ -1,2 +1,5 @@
 hello ma dude
-wasaaa
+wasaaa\n
+funkade det här
+
+
